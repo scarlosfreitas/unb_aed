@@ -1,0 +1,16 @@
+task,time,description
+1.0,16,Detailing the necessary resources to be provisioned
+2.0,8,Provisioning of a virtual machine in the client's environment
+3.0,20,Configuration of the operating system and Java environment
+4.0,60,"Develop a routine to integrate all Customer, Supplier, and Product records into the partner system"
+5.0,60,Develop a routine for registering warranties and deadlines
+6.0,40,Develop a routine for registering shipments
+7.0,40,Develop an endpoint to inform consulted client data
+8.0,20,Develop an endpoint to inform shipments
+9.0,20,Develop a report to extract the list of debtor clients
+10.0,16,Develop a report to extract the list of pending shipments
+11.0,8,Application performance analysis
+12.0,20,Project documentation
+13.0,16,Backup configuration
+14.0,16,Knowledge transfer
+15.0,20,Assisted operation
