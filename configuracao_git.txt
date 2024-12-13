@@ -3,3 +3,5 @@ git commit -m "Primeiro commit"
 git remote add origin https://github.com/scarlosfreitas/unb_aed.git
 git push -u origin main
 git push --set-upstream origin master
+
+git commit -m "Enviou do código gerado"
